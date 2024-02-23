@@ -2,4 +2,4 @@
 
 Simple JavaScript Counting App
 
-Try it out [here](https://headphonescounter-production.up.railway.app/)
+Try it live [here](https://headphonescounter-production.up.railway.app/)
